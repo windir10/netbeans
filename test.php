@@ -20,11 +20,15 @@ array_push($a_test, 28);
 array_push($a_test, 8);
 
 foreach ($a_test as $value) {
-    $i_curvalue = $value;
+    $i_curvalue = intval($value);
     $test++;
 }
 
 echo 'test = '.$test;
+
+echo '<br>value = '.$i_curvalue;
+
+echo '<br>end';
 
 ?>
 
