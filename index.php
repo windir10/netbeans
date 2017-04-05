@@ -7,6 +7,7 @@
  */
 
 echo '<a href="test.php">link test.php</a>';
+echo '<hr>';
 
 ?>
 
