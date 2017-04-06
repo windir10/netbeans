@@ -9,5 +9,9 @@
 echo '<a href="test.php">link test.php</a>';
 echo '<hr>';
 
+echo '<br>';
+echo '<a href="webpage.php">link webpage.php</a>';
+echo '<hr>';
+
 ?>
 

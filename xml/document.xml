@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Projet Netbeans PHP
+Avril 2017
+Steven DUMONT
+-->
+
+
+<root>
+    <data id="1">nom data 1</data>
+    <data id="2">nom data 2</data>
+</root>

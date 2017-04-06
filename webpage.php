@@ -14,4 +14,6 @@ Steven DUMONT
         // put your code here
         ?>
     </body>
+    
+    <script type="text/javascript" src="js/script.js"></script>
 </html>
