@@ -44,7 +44,7 @@ class User {
         $s_cur_nom = '';
         $s_cur_prenom = '';
         
-        $s_sql = 'SELECT * FROM users ORDER BY user_nom, user_prenom';
+        $s_sql = 'SELECT * FROM user ORDER BY user_nom, user_prenom';
         $o_req = Connexion::get_instance()->connexion->prepare($s_sql);
         if($o_req->execute()) {
             while($t_rs = $o_req->fetch()) {
