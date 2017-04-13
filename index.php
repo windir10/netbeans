@@ -6,6 +6,8 @@
  * and open the template in the editor.
  */
 
+require_once 'config-bdd.php';
+
 echo '<a href="test.php">link test.php</a>';
 echo '<hr>';
 
