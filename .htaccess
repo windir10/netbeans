@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^dumont\.html$ /webpage.php [L]
